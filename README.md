@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agile Ticketing is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://agiletix.com/
+Agile Ticketing Solutions provides a cloud‑based ticketing platform for venues, events, and hospitality venues, enabling online ordering of food, drinks, memberships, passes, and donations. Their platform integrates with POS, supports kiosk ordering, and offers Zapier integration for workflow automation, aiming to boost per‑capita spend and improve guest experiences.
+
+**Areas:** Company · Ticketing · Hospitality · Events · POS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agiletix.com/)
+- [Documentation](https://help.agiletix.com/)
+- [Getting started](https://help.agiletix.com/en_US/agile-ticketing-solutions-begin-here/group-pay-setup-and-use)
+- [Support](https://support.agiletix.com/auth/v3/signin?brand_id=38784&locale=en-us&return_to=https%3A%2F%2Fsupport.agiletix.com%2Fhc%2Fen-us&role=end_user)
+- [Blog](https://agiletix.com/blogs/)
+- [Privacy policy](https://www.agiletix.com/privacy-statement)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/agile-ticketing/](https://apis.io/providers/agile-ticketing/).
